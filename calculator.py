@@ -16,4 +16,6 @@ elif args.operator == '*':
 elif args.operator == '/':
     result = args.num1 / args.num2
 
-print(f"Result: {result}")
+\
+print(f"✅ Result: {result}") #другой текст!
+
